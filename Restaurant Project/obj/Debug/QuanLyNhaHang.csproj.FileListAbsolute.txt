@@ -1,0 +1,59 @@
+C:\Users\trant\Desktop\qlNhaHang\QuanLiCafe-master\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\trant\Desktop\qlNhaHang\QuanLiCafe-master\bin\Debug\QuanLyNhaHang.exe
+C:\Users\trant\Desktop\qlNhaHang\QuanLiCafe-master\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\trant\Desktop\qlNhaHang\QuanLiCafe-master\obj\Debug\QuanLyNhaHang.fAccountProfile.resources
+C:\Users\trant\Desktop\qlNhaHang\QuanLiCafe-master\obj\Debug\QuanLyNhaHang.fAdmin.resources
+C:\Users\trant\Desktop\qlNhaHang\QuanLiCafe-master\obj\Debug\QuanLyNhaHang.fLogin.resources
+C:\Users\trant\Desktop\qlNhaHang\QuanLiCafe-master\obj\Debug\QuanLyNhaHang.fTableManager.resources
+C:\Users\trant\Desktop\qlNhaHang\QuanLiCafe-master\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\trant\Desktop\qlNhaHang\QuanLiCafe-master\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.Cache
+C:\Users\trant\Desktop\qlNhaHang\QuanLiCafe-master\obj\Debug\QuanLyNhaHang.exe
+C:\Users\trant\Desktop\qlNhaHang\QuanLiCafe-master\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\trant\Desktop\qlNhaHang\QuanLiCafe-master\obj\Debug\QuanLyNhaHang.csprojResolveAssemblyReference.cache
+C:\Users\trant\Desktop\qlNhaHang\QuanLiCafe-master\obj\Debug\RdlCompile.cache
+C:\Users\trant\Desktop\qlNhaHang\QuanLiCafe-master\obj\Debug\RdlCompile.compiled
+C:\Users\trant\Desktop\qlNhaHang\Restaurant\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\trant\Desktop\qlNhaHang\Restaurant\obj\Debug\QuanLyNhaHang.exe
+C:\Users\trant\Desktop\qlNhaHang\Restaurant\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\trant\Desktop\qlNhaHang\Restaurant Project\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\trant\Desktop\qlNhaHang\Restaurant Project\obj\Debug\QuanLyNhaHang.exe
+C:\Users\trant\Desktop\qlNhaHang\Restaurant Project\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\trant\Desktop\qlNhaHang\Restaurant Project\bin\Debug\QuanLyNhaHang.exe
+C:\Users\trant\Desktop\qlNhaHang\Restaurant Project\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\trant\Desktop\qlNhaHang\Restaurant Project\obj\Debug\QuanLyNhaHang.csprojResolveAssemblyReference.cache
+C:\Users\trant\Desktop\qlNhaHang\Restaurant Project\obj\Debug\QuanLyNhaHang.fAccountProfile.resources
+C:\Users\trant\Desktop\qlNhaHang\Restaurant Project\obj\Debug\QuanLyNhaHang.fAdmin.resources
+C:\Users\trant\Desktop\qlNhaHang\Restaurant Project\obj\Debug\QuanLyNhaHang.fLogin.resources
+C:\Users\trant\Desktop\qlNhaHang\Restaurant Project\obj\Debug\QuanLyNhaHang.fTableManager.resources
+C:\Users\trant\Desktop\qlNhaHang\Restaurant Project\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\trant\Desktop\qlNhaHang\Restaurant Project\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.Cache
+C:\Users\trant\Desktop\qlNhaHang\Restaurant Project\obj\Debug\RdlCompile.cache
+C:\Users\trant\Desktop\qlNhaHang\Restaurant Project\obj\Debug\RdlCompile.compiled
+C:\Users\trant\Desktop\Đồ án Môn học 2017\Restaurant Project\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\trant\Desktop\Đồ án Môn học 2017\Restaurant Project\obj\Debug\QuanLyNhaHang.exe
+C:\Users\trant\Desktop\Đồ án Môn học 2017\Restaurant Project\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\trant\Desktop\Đồ án Môn học 2017\Restaurant Project\bin\Debug\QuanLyNhaHang.exe
+C:\Users\trant\Desktop\Đồ án Môn học 2017\Restaurant Project\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\trant\Desktop\Đồ án Môn học 2017\Restaurant Project\obj\Debug\QuanLyNhaHang.csprojResolveAssemblyReference.cache
+C:\Users\trant\Desktop\Đồ án Môn học 2017\Restaurant Project\obj\Debug\QuanLyNhaHang.fAccountProfile.resources
+C:\Users\trant\Desktop\Đồ án Môn học 2017\Restaurant Project\obj\Debug\QuanLyNhaHang.fAdmin.resources
+C:\Users\trant\Desktop\Đồ án Môn học 2017\Restaurant Project\obj\Debug\QuanLyNhaHang.fLogin.resources
+C:\Users\trant\Desktop\Đồ án Môn học 2017\Restaurant Project\obj\Debug\QuanLyNhaHang.fTableManager.resources
+C:\Users\trant\Desktop\Đồ án Môn học 2017\Restaurant Project\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\trant\Desktop\Đồ án Môn học 2017\Restaurant Project\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.Cache
+C:\Users\trant\Desktop\Đồ án Môn học 2017\Restaurant Project\obj\Debug\RdlCompile.cache
+C:\Users\trant\Desktop\Đồ án Môn học 2017\Restaurant Project\obj\Debug\RdlCompile.compiled
+D:\Đồ án 2017\Đồ án Môn học 2017\Restaurant Project\bin\Debug\QuanLyNhaHang.exe.config
+D:\Đồ án 2017\Đồ án Môn học 2017\Restaurant Project\obj\Debug\QuanLyNhaHang.exe
+D:\Đồ án 2017\Đồ án Môn học 2017\Restaurant Project\obj\Debug\QuanLyNhaHang.pdb
+D:\Đồ án 2017\Đồ án Môn học 2017\Restaurant Project\bin\Debug\QuanLyNhaHang.exe
+D:\Đồ án 2017\Đồ án Môn học 2017\Restaurant Project\bin\Debug\QuanLyNhaHang.pdb
+D:\Đồ án 2017\Đồ án Môn học 2017\Restaurant Project\obj\Debug\QuanLyNhaHang.csprojResolveAssemblyReference.cache
+D:\Đồ án 2017\Đồ án Môn học 2017\Restaurant Project\obj\Debug\QuanLyNhaHang.fAccountProfile.resources
+D:\Đồ án 2017\Đồ án Môn học 2017\Restaurant Project\obj\Debug\QuanLyNhaHang.fAdmin.resources
+D:\Đồ án 2017\Đồ án Môn học 2017\Restaurant Project\obj\Debug\QuanLyNhaHang.fLogin.resources
+D:\Đồ án 2017\Đồ án Môn học 2017\Restaurant Project\obj\Debug\QuanLyNhaHang.fTableManager.resources
+D:\Đồ án 2017\Đồ án Môn học 2017\Restaurant Project\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+D:\Đồ án 2017\Đồ án Môn học 2017\Restaurant Project\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.Cache
+D:\Đồ án 2017\Đồ án Môn học 2017\Restaurant Project\obj\Debug\RdlCompile.cache
+D:\Đồ án 2017\Đồ án Môn học 2017\Restaurant Project\obj\Debug\RdlCompile.compiled
