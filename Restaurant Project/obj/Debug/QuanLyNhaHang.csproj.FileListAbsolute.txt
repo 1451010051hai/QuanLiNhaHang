@@ -57,21 +57,3 @@ D:\Đồ án 2017\Đồ án Môn học 2017\Restaurant Project\obj\Debug\QuanLyN
 D:\Đồ án 2017\Đồ án Môn học 2017\Restaurant Project\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.Cache
 D:\Đồ án 2017\Đồ án Môn học 2017\Restaurant Project\obj\Debug\RdlCompile.cache
 D:\Đồ án 2017\Đồ án Môn học 2017\Restaurant Project\obj\Debug\RdlCompile.compiled
-G:\Git\QuanLiNhaHang\Restaurant Project\bin\Debug\QuanLyNhaHang.exe.config
-G:\Git\QuanLiNhaHang\Restaurant Project\bin\Debug\QuanLyNhaHang.exe
-G:\Git\QuanLiNhaHang\Restaurant Project\bin\Debug\QuanLyNhaHang.pdb
-G:\Git\QuanLiNhaHang\Restaurant Project\bin\Debug\Microsoft.ReportViewer.Common.dll
-G:\Git\QuanLiNhaHang\Restaurant Project\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
-G:\Git\QuanLiNhaHang\Restaurant Project\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
-G:\Git\QuanLiNhaHang\Restaurant Project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
-G:\Git\QuanLiNhaHang\Restaurant Project\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
-G:\Git\QuanLiNhaHang\Restaurant Project\obj\Debug\QuanLyNhaHang.fAccountProfile.resources
-G:\Git\QuanLiNhaHang\Restaurant Project\obj\Debug\QuanLyNhaHang.fAdmin.resources
-G:\Git\QuanLiNhaHang\Restaurant Project\obj\Debug\QuanLyNhaHang.fLogin.resources
-G:\Git\QuanLiNhaHang\Restaurant Project\obj\Debug\QuanLyNhaHang.fTableManager.resources
-G:\Git\QuanLiNhaHang\Restaurant Project\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
-G:\Git\QuanLiNhaHang\Restaurant Project\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
-G:\Git\QuanLiNhaHang\Restaurant Project\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
-G:\Git\QuanLiNhaHang\Restaurant Project\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
-G:\Git\QuanLiNhaHang\Restaurant Project\obj\Debug\QuanLyNhaHang.exe
-G:\Git\QuanLiNhaHang\Restaurant Project\obj\Debug\QuanLyNhaHang.pdb
