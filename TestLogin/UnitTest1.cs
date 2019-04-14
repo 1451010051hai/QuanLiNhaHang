@@ -37,6 +37,14 @@ namespace TestLogin
             getLogin(user, pass);
             Assert.AreEqual(test, resultLogin);
         }
+        [TestMethod]
+        public void TestPassNull()
+        {
+            // user sai
+            user = "Admin"; pass = "";
+            getLogin(user, pass);
+            Assert.AreEqual(test, resultLogin);
+        }
 
         public void getLogin(string user,string pass)
         {
