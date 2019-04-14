@@ -34,13 +34,13 @@ namespace QuanLyNhaHang
             txbDisplayName.Text = LoginAccount.DisplayName;
         }
 
-        void UpdateAccountInfo()
-        {
-            string displayName = txbDisplayName.Text;
-            string password = txbPassWord.Text;
-            string newpass = txbNewPass.Text;
-            string reenterPass = txbReEnterPass.Text;
-            string userName = txbUserName.Text;
+        public void UpdateAccountInfo(string user, string display, string pass, string newpassw, string reenterpassw)
+            {
+            string displayName = display;
+            string password = pass;
+            string newpass = newpassw;
+            string reenterPass = reenterpassw;
+            string userName = user;
 
             if (!newpass.Equals(reenterPass))
             {
@@ -75,7 +75,7 @@ namespace QuanLyNhaHang
 
         private void btnUpdate_Click(object sender, EventArgs e)
         {
-            UpdateAccountInfo();
+            UpdateAccountInfo(txbUserName.Text, txbDisplayName.Text, txbPassWord.Text, txbNewPass.Text, txbReEnterPass.Text);
         }
 
         private void fAccountProfile_Load(object sender, EventArgs e)
