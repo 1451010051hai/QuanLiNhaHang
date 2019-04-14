@@ -20,7 +20,7 @@ namespace QuanLyNhaHang.DAO
 
         private DataProvider(){}
 
-        private string connectionSTR = "Data Source=(local);Initial Catalog=Restaurant;Integrated Security=True";
+        private string connectionSTR = "Data Source=DESKTOP-QEGFID6\\SQLEXPRESS;Initial Catalog=Restaurant;Integrated Security=True";
         
         public DataTable ExecuteQuery(string query, object[] parameter = null)
         {
