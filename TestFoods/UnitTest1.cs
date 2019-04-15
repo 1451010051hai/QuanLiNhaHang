@@ -61,11 +61,19 @@ namespace TestFoods
             }
         }
         [TestMethod]
-        public void TestUpdateFood()
+        public void TestUpdateFoodNull()
         {
             // Test tên  thức ăn không có trong thực đơn thức ăn
             name = "bún chả sài gòn"; categoryID = 1; price = 20000; idFood = 35;
             UpdateFood(idFood,name, categoryID, price);
+            Assert.AreEqual(test, resultFood);
+        }
+        [TestMethod]
+        public void TestUpdateFoodSuccess()
+        {
+            // Test tên  thức ăn không có trong thực đơn thức ăn
+            name = "bún chả hà nội"; categoryID = 1; price = 40000; idFood = 35;
+            UpdateFood(idFood, name, categoryID, price);
             Assert.AreEqual(test, resultFood);
         }
 
