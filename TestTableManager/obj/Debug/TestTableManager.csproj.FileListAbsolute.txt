@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestTableManager\bin\Debug\TestTableManager.dll
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestTableManager\bin\Debug\TestTableManager.pdb
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestTableManager\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestTableManager\bin\Debug\QuanLyNhaHang.exe
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestTableManager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestTableManager\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestTableManager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestTableManager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestTableManager\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestTableManager\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestTableManager\obj\Debug\TestTableManager.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestTableManager\obj\Debug\TestTableManager.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestTableManager\obj\Debug\TestTableManager.csproj.CopyComplete
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestTableManager\obj\Debug\TestTableManager.dll
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestTableManager\obj\Debug\TestTableManager.pdb

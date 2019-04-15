@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestAccountProfile\bin\Debug\TestAccountProfile.dll
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestAccountProfile\bin\Debug\TestAccountProfile.pdb
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestAccountProfile\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestAccountProfile\bin\Debug\QuanLyNhaHang.exe
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestAccountProfile\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestAccountProfile\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestAccountProfile\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestAccountProfile\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestAccountProfile\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestAccountProfile\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestAccountProfile\obj\Debug\TestAccountProfile.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestAccountProfile\obj\Debug\TestAccountProfile.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestAccountProfile\obj\Debug\TestAccountProfile.csproj.CopyComplete
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestAccountProfile\obj\Debug\TestAccountProfile.dll
+C:\Users\Admin\Desktop\QuanLiNhaHang\TestAccountProfile\obj\Debug\TestAccountProfile.pdb

@@ -40,8 +40,16 @@ namespace TestLogin
         [TestMethod]
         public void TestPassNull()
         {
-            // user sai
+            // pass sai
             user = "Admin"; pass = "";
+            getLogin(user, pass);
+            Assert.AreEqual(test, resultLogin);
+        }
+        [TestMethod]
+        public void TestPassKiTu()
+        {
+            // user sai
+            user = "Admin"; pass = "@Admin_";
             getLogin(user, pass);
             Assert.AreEqual(test, resultLogin);
         }
