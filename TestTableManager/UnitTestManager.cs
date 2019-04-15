@@ -10,7 +10,7 @@ namespace TestTableManager
     public class UnitTestManager
     {
         [TestMethod]
-        public void TestGetInforTable()
+        public void TestGetInforTable1()
         {
             int id = 2;
             int count = 0;
@@ -25,7 +25,7 @@ namespace TestTableManager
         }
 
         [TestMethod]
-        public void TestGetInforTable1()
+        public void TestGetInforTable2()
         {
             int id = 6;
             int count = 0;
@@ -38,5 +38,10 @@ namespace TestTableManager
             }
             Assert.AreEqual(count_expect, count);
         }
-    }
+
+        [TestMethod]
+        public void TestAddDisk1()
+        {
+
+        }
 }
