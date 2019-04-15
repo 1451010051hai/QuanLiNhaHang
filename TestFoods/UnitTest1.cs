@@ -23,6 +23,14 @@ namespace TestFoods
             AddFood(name, categoryID,price);
             Assert.AreEqual(test, resultFood);
         }
+        [TestMethod]
+        public void TestPriceNull()
+        {
+            // Test giá thức ăn rỗng
+            name = ""; categoryID = 1; price = 0;
+            AddFood(name, categoryID, price);
+            Assert.AreEqual(test, resultFood);
+        }
         public void AddFood(string name, int categoryID, float price)
         {
             resultFood = accDao.InsertFood(name, categoryID, price);
