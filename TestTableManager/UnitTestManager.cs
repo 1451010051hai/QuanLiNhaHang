@@ -58,5 +58,24 @@ namespace TestTableManager
             }
             Assert.IsFalse(rs);
         }
+
+        [TestMethod]
+        public void TestAddDisk2()
+        {
+            bool rs = false;
+            int TableID = 1;
+            int idBill = BillDAO.Instance.GetUncheckBillIDByTableID(TableID);
+            int foodID = 2;
+            if (idBill == -1)
+            {
+                BillDAO.Instance.InsertBill(TableID);
+                rs = BillInfoDAO.Instance.InsertBillInfo(BillDAO.Instance.GetMaxIDBill(), foodID, 1);
+            }
+            else
+            {
+                rs = BillInfoDAO.Instance.InsertBillInfo(idBill, foodID, 1);
+            }
+            Assert.IsTrue(rs);
+        }
     }
 }
