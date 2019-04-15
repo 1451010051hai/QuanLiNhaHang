@@ -27,7 +27,15 @@ namespace TestFoods
         public void TestPriceNull()
         {
             // Test giá thức ăn rỗng
-            name = ""; categoryID = 1; price = 0;
+            name = "bún bò"; categoryID = 1; price = 0;
+            AddFood(name, categoryID, price);
+            Assert.AreEqual(test, resultFood);
+        }
+        [TestMethod]
+        public void TestSameName()
+        {
+            // Test tên  thức ăn trùng
+            name = "Chả giò tôm thịt"; categoryID = 1; price = 100000;
             AddFood(name, categoryID, price);
             Assert.AreEqual(test, resultFood);
         }
@@ -41,6 +49,7 @@ namespace TestFoods
                 test = true;
             }
         }
+        
     }
 }
 
