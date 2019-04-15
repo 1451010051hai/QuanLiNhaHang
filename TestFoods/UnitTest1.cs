@@ -39,17 +39,38 @@ namespace TestFoods
             AddFood(name, categoryID, price);
             Assert.AreEqual(test, resultFood);
         }
+        [TestMethod]
+        public void TestFoodSuccess()
+        {
+            // Test tên  thức ăn trùng
+            name = "bún chả hà nội"; categoryID = 1; price = 20000;
+            AddFood(name, categoryID, price);
+            Assert.AreEqual(test, resultFood);
+        }
         public void AddFood(string name, int categoryID, float price)
         {
             resultFood = accDao.InsertFood(name, categoryID, price);
             string query = string.Format("INSERT dbo.Food ( name, idCategory, price )VALUES  ( N'{0}', {1}, {2})", name, 1, price);
+            int result = DataProvider.Instance.ExecuteNonQuery(query);
+            test = false;
+            if (result > 0)
+            {
+                test = true;
+            }
+        }
+  
+       
+        public void UpdateFood(int idFood, string name, int idCategory, float price)
+        {
+            resultFood = accDao.UpdateFood(idFood, name, categoryID, price);
+            string query = string.Format("UPDATE dbo.Food SET name = N'{0}', idCategory = {1}, price = {2} WHERE id = {3}", name, idCategory, price, idFood);
             int result = DataProvider.Instance.ExecuteNonQuery(query);
             if (result > 0)
             {
                 test = true;
             }
         }
-        
+
     }
 }
 

@@ -68,6 +68,7 @@ namespace TestLogin
             resultLogin = accDao.Login(user, pass);
             string query = "select *from dbo.Account where UserName=N'" + user + "'AND Password=N'" + pass + "'";
             DataTable result = DataProvider.Instance.ExecuteQuery(query);
+            test = false;
             if (result.Rows.Count > 0)
             {
                 test = true;
