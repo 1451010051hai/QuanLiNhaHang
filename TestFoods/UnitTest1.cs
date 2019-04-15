@@ -88,6 +88,26 @@ namespace TestFoods
                 test = true;
             }
         }
+        [TestMethod]
+        public void TestDeleteFood()
+        {
+            // Test tên  thức ăn không có trong thực đơn thức ăn
+            idFood = 1;
+            DeleteFood(idFood);
+            Assert.AreEqual(test, resultFood);
+        }
+        public void DeleteFood(int idFood)
+        {
+            BillInfoDAO.Instance.DeleteBillInfoByFoodID(idFood);
+            resultFood = FoodDAO.Instance.DeleteFood(idFood);
+            string query = string.Format("Delete Food where id = {0}", idFood);
+            int result = DataProvider.Instance.ExecuteNonQuery(query);
+            test = false;
+            if (result > 0)
+            {
+                test = true;
+            }
+        }
 
     }
 }
