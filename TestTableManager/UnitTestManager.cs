@@ -77,5 +77,43 @@ namespace TestTableManager
             }
             Assert.IsTrue(rs);
         }
+
+        [TestMethod]
+        public void TestProcessBill2()
+        {
+            float expectPrice = 0;
+            int id = -1;
+            int discount = 0;
+            List<QuanLyNhaHang.DTO.Menu> listBillInfo = MenuDAO.Instance.GetListMenuByTable(id);
+            foreach (QuanLyNhaHang.DTO.Menu item in listBillInfo)
+            {
+                expectPrice += item.TotalPrice;
+            }
+
+            int idBill = BillDAO.Instance.GetUncheckBillIDByTableID(id);
+            double finalTotalPrice = (expectPrice - (expectPrice / 100) * discount) * 1000;
+            bool rs = BillDAO.Instance.CheckOut(idBill, discount, (float)finalTotalPrice);
+
+            Assert.IsTrue(rs);
+        }
+
+        [TestMethod]
+        public void TestProcessBill3()
+        {
+            float expectPrice = 0;
+            int id = 7;
+            int discount = 0;
+            List<QuanLyNhaHang.DTO.Menu> listBillInfo = MenuDAO.Instance.GetListMenuByTable(id);
+            foreach (QuanLyNhaHang.DTO.Menu item in listBillInfo)
+            {
+                expectPrice += item.TotalPrice;
+            }
+
+            int idBill = BillDAO.Instance.GetUncheckBillIDByTableID(id);
+            double finalTotalPrice = (expectPrice - (expectPrice / 100) * discount) * 1000;
+            bool rs = BillDAO.Instance.CheckOut(idBill, discount, (float)finalTotalPrice);
+
+            Assert.IsTrue(rs);
+        }
     }
 }
