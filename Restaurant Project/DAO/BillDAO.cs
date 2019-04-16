@@ -39,10 +39,11 @@ namespace QuanLyNhaHang.DAO
             return -1;
         }
 
-        public void CheckOut(int id, int discount, float totalPrice)
+        public bool CheckOut(int id, int discount, float totalPrice)
         {
             string query = "UPDATE dbo.Bill SET dateCheckOut = GETDATE(), status = 1, " + "discount = " + discount + ", totalPrice = " + totalPrice + " WHERE id = " + id;
-            DataProvider.Instance.ExecuteNonQuery(query);
+            int rs = DataProvider.Instance.ExecuteNonQuery(query);
+            return (rs > 0);
         }
         public void InsertBill(int id)
         {
